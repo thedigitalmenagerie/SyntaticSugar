@@ -1,0 +1,16 @@
+C:\Users\honey\source\repos\SyntaticSugar\SyntaticSugar\bin\Debug\net5.0\SyntaticSugar.exe
+C:\Users\honey\source\repos\SyntaticSugar\SyntaticSugar\bin\Debug\net5.0\SyntaticSugar.deps.json
+C:\Users\honey\source\repos\SyntaticSugar\SyntaticSugar\bin\Debug\net5.0\SyntaticSugar.runtimeconfig.json
+C:\Users\honey\source\repos\SyntaticSugar\SyntaticSugar\bin\Debug\net5.0\SyntaticSugar.runtimeconfig.dev.json
+C:\Users\honey\source\repos\SyntaticSugar\SyntaticSugar\bin\Debug\net5.0\SyntaticSugar.dll
+C:\Users\honey\source\repos\SyntaticSugar\SyntaticSugar\bin\Debug\net5.0\ref\SyntaticSugar.dll
+C:\Users\honey\source\repos\SyntaticSugar\SyntaticSugar\bin\Debug\net5.0\SyntaticSugar.pdb
+C:\Users\honey\source\repos\SyntaticSugar\SyntaticSugar\obj\Debug\net5.0\SyntaticSugar.csproj.AssemblyReference.cache
+C:\Users\honey\source\repos\SyntaticSugar\SyntaticSugar\obj\Debug\net5.0\SyntaticSugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honey\source\repos\SyntaticSugar\SyntaticSugar\obj\Debug\net5.0\SyntaticSugar.AssemblyInfoInputs.cache
+C:\Users\honey\source\repos\SyntaticSugar\SyntaticSugar\obj\Debug\net5.0\SyntaticSugar.AssemblyInfo.cs
+C:\Users\honey\source\repos\SyntaticSugar\SyntaticSugar\obj\Debug\net5.0\SyntaticSugar.csproj.CoreCompileInputs.cache
+C:\Users\honey\source\repos\SyntaticSugar\SyntaticSugar\obj\Debug\net5.0\SyntaticSugar.dll
+C:\Users\honey\source\repos\SyntaticSugar\SyntaticSugar\obj\Debug\net5.0\ref\SyntaticSugar.dll
+C:\Users\honey\source\repos\SyntaticSugar\SyntaticSugar\obj\Debug\net5.0\SyntaticSugar.pdb
+C:\Users\honey\source\repos\SyntaticSugar\SyntaticSugar\obj\Debug\net5.0\SyntaticSugar.genruntimeconfig.cache
